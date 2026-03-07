@@ -1,0 +1,31 @@
+﻿namespace Exam.Api.Nazariy
+{
+    public class nazariy
+    {
+
+
+    1. LINQ bu Language Query 
+    
+    linq bu Language Integrated Query.
+    va bu bizga Collection ustida query yozish imkonini beradi biz linq ni list array lar bilan ishlatishimiz mumkun
+    hamda LINQ ni birnechta methodlari mavjud (where,max,min,select va boshqalar)
+
+
+    2. 
+    OOP bu obyektga yonaltirilgan dasturlash va dastur kotarishnig bir usuli desak boladi yani paradigma,
+    OOP 4 ta usunga bolinadi  Abstraction, Encapsulation , Inheretence va Palimarfizm. Abstraction bu mavhumlik va bu 
+    bizning kodimizda murakkablikni yashirib beradi, Encapsulation bolsa codimizda qobig yaratib beradi , Iheretence 
+    bizga voris olishda kerak boladi ota cass dan ishchi classlarga , 
+
+    3. Boxing Unboxing
+
+
+    boxing bu value typeni valuedan reference yoki object typega otqazishga aytiladi 
+    unboxing blsa boxingni teskarisi yani reference yoki objectdan value type ga aytiladi 
+    ammo boxing unboxingni ishlatish kop xollarda yomomn chunki  memmoryda katta joy oladi va performencega tasir qladi 
+
+
+
+
+    }
+}
